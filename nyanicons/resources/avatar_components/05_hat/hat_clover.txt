@@ -1,1 +1,1 @@
-hat_clover secondary
+hat_clover COLOR_SECONDARY
