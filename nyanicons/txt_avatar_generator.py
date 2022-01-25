@@ -74,10 +74,10 @@ class TxtAvatarGenerator:
 
     @staticmethod
     def _colorize_component(component: str, color_scheme: ColorScheme) -> str:
-        component = component.replace('primary', SVGUtil.format_rgb_255(color_scheme.primary))
-        component = component.replace('secondary', SVGUtil.format_rgb_255(color_scheme.secondary))
-        component = component.replace('tertiary', SVGUtil.format_rgb_255(color_scheme.tertiary))
-        component = component.replace('monochrome', SVGUtil.format_rgb_255(color_scheme.monochrome))
-        component = component.replace('grayscale', SVGUtil.format_rgb_255(color_scheme.grayscale))
+        component = component.replace('COLOR_PRIMARY', SVGUtil.format_rgb_255(color_scheme.primary))
+        component = component.replace('COLOR_SECONDARY', SVGUtil.format_rgb_255(color_scheme.secondary))
+        component = component.replace('COLOR_TERTIARY', SVGUtil.format_rgb_255(color_scheme.tertiary))
+        component = component.replace('COLOR_MONOCHROME', SVGUtil.format_rgb_255(color_scheme.monochrome))
+        component = component.replace('COLOR_GRAYSCALE', SVGUtil.format_rgb_255(color_scheme.grayscale))
 
         return component

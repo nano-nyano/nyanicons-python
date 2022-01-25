@@ -1,1 +1,1 @@
-collar_solid secondary tertiary
+collar_solid COLOR_SECONDARY COLOR_TERTIARY

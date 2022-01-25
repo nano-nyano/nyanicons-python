@@ -1,1 +1,1 @@
-head_classic_stripes primary monochrome
+head_classic_stripes COLOR_PRIMARY monochrome

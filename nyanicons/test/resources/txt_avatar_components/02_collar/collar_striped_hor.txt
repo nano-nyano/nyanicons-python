@@ -1,1 +1,1 @@
-collar_striped_hor secondary grayscale tertiary
+collar_striped_hor COLOR_SECONDARY COLOR_GRAYSCALE COLOR_TERTIARY
