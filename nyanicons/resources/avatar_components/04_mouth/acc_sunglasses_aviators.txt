@@ -1,1 +1,1 @@
-acc_sunglasses_aviators secondary
+acc_sunglasses_aviators COLOR_SECONDARY

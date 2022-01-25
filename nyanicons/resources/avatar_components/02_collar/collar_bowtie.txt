@@ -1,1 +1,1 @@
-collar_bowtie secondary tertiary
+collar_bowtie COLOR_SECONDARY COLOR_TERTIARY
