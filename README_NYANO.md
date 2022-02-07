@@ -7,6 +7,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src="nyanicons/resources/media/ico-discord.png" width="16" height="16"> Discord](https://discord.gg/bAeGuKpKtA)
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src="nyanicons/resources/media/ico-twitter.png" width="16" height="16"> Twitter](https://twitter.com/Nyanocrypto) &nbsp;+&nbsp; [#Nyano](https://twitter.com/search?q=%23Nyano)
 
+| ⚠️ HELP NEEDED<br>We need help from developers!<br>Please see [How can you help?](#how-can-you-help) for details. |
+|:----------------------------------------------------------------------------------------------------------------------------------|
+
 ## What is Nyano?
 
 Nyano (ticker NYANO, symbol ɏ) is a "pseudo-cryptocurrency", which exists as a subunit of the Nano cryptocurrency
@@ -32,3 +35,7 @@ awareness, fun, and excitement to Nano through social channels and adorable Nyan
 * Nyano is NOT a fork (or clone) of Nano, unlike it's sister-project Banano (BAN)
 * Nyano is NOT a new cryptocurrency
 * Nyano is NOT a token
+
+## How can you help?
+
+TODO

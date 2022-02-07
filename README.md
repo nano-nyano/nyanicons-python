@@ -1,4 +1,4 @@
-![Nyano](nyanicons/resources/media/banner-nyano-earth-1500x500.jpeg)
+![Nyano](nyanicons/resources/media/banner-nyano-1500x500.jpeg)
 
 # Nyanicons Python
 
