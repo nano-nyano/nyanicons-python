@@ -1,11 +1,11 @@
 import os
 from typing import List
 
+from nyanicons import svg_util
 from nyanicons.color_scheme import ColorScheme
 from nyanicons.encoder import Encoder
 from nyanicons.hls import HLS
 from nyanicons.nano_address import NanoAddress
-from nyanicons.svg_util import SVGUtil
 from nyanicons.txt_avatar import TxtAvatar
 from nyanicons.txt_avatar_component_category import TxtAvatarComponentCategory
 
@@ -74,10 +74,10 @@ class TxtAvatarGenerator:
 
     @staticmethod
     def _colorize_component(component: str, color_scheme: ColorScheme) -> str:
-        component = component.replace('COLOR_PRIMARY', SVGUtil.format_rgb_255(color_scheme.primary))
-        component = component.replace('COLOR_SECONDARY', SVGUtil.format_rgb_255(color_scheme.secondary))
-        component = component.replace('COLOR_TERTIARY', SVGUtil.format_rgb_255(color_scheme.tertiary))
-        component = component.replace('COLOR_MONOCHROME', SVGUtil.format_rgb_255(color_scheme.monochrome))
-        component = component.replace('COLOR_GRAYSCALE', SVGUtil.format_rgb_255(color_scheme.grayscale))
+        component = component.replace('COLOR_PRIMARY', svg_util.format_rgb_255(color_scheme.primary))
+        component = component.replace('COLOR_SECONDARY', svg_util.format_rgb_255(color_scheme.secondary))
+        component = component.replace('COLOR_TERTIARY', svg_util.format_rgb_255(color_scheme.tertiary))
+        component = component.replace('COLOR_MONOCHROME', svg_util.format_rgb_255(color_scheme.monochrome))
+        component = component.replace('COLOR_GRAYSCALE', svg_util.format_rgb_255(color_scheme.grayscale))
 
         return component

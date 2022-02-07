@@ -1,7 +1,7 @@
 import pytest
 
+from nyanicons import svg_util
 from nyanicons.hls import HLS
-from nyanicons.svg_util import SVGUtil
 
 
 @pytest.mark.parametrize(
@@ -14,7 +14,7 @@ from nyanicons.svg_util import SVGUtil
     ]
 )
 def test_format_rgb_255(hls: HLS, exp_svg_format: str):
-    assert SVGUtil.format_rgb_255(hls) == exp_svg_format
+    assert svg_util.format_rgb_255(hls) == exp_svg_format
 
 
 @pytest.mark.parametrize(
@@ -27,4 +27,4 @@ def test_format_rgb_255(hls: HLS, exp_svg_format: str):
     ]
 )
 def test_format_rgb_percent(hls: HLS, exp_svg_format: str):
-    assert SVGUtil.format_rgb_percent(hls) == exp_svg_format
+    assert svg_util.format_rgb_percent(hls) == exp_svg_format
