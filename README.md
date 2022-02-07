@@ -9,9 +9,9 @@ The Python implementation of the Nyanicons avatar generation library for the Nya
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src="nyanicons/resources/media/ico-discord.png" width="16" height="16"> Discord](https://discord.gg/bAeGuKpKtA)
 &nbsp;&nbsp;&nbsp;&nbsp;[<img src="nyanicons/resources/media/ico-twitter.png" width="16" height="16"> Twitter](https://twitter.com/Nyanocrypto) &nbsp;+&nbsp; [#Nyano](https://twitter.com/search?q=%23Nyano)
 
-> ⚠️ WE NEED HELP FROM DEVELOPERS AND SVG ARTISTS!
-> 
-> Please see [How can you help?](#How can you help?) for details.
+| ⚠️ HELP NEEDED                                                                                                     |
+|:------------------------------------------------------------------------------------------------------------------|
+| We need help from developers and SVG artists!<br>Please see [How can you help?](#How can you help?) for details.  |
 
 ## What is Nyano?
 
