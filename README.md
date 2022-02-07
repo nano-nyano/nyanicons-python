@@ -14,7 +14,7 @@ The Python implementation of the Nyanicons avatar generation library for the Nya
 
 ## What is Nyano?
 
-For information about Nyano, please see the [Nyano README](README_NYANO)
+For information about Nyano, please see the [Nyano README](README_NYANO.md)
   
 ## What are Nyanicons?
 
